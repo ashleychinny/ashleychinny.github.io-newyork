@@ -1,0 +1,11 @@
+{
+  "name": "New York",
+  "version": "1.0.0",
+  "description": "NYC Travels",
+  "scripts": {
+    "build": "npx tailwindcss build -c ./tailwind.config.js -o ./dist/output.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
